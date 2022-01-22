@@ -21,6 +21,7 @@ link https://stackoverflow.com/questions/18197705/adding-your-vim-vimrc-to-githu
   $ mkdir .vim
   $ cd .vim
   $ git clone https://github.com/danilocarrenho/vim-configuration.git
+  $ git checkout master
 ````
 
 > After at All, starts vim and use vim-plugin manager, that was configured and install them, :PlugInstall
